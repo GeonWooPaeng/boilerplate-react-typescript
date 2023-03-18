@@ -27,5 +27,6 @@ module.exports = {
   plugins: ['react', 'react-hooks', 'import', 'jsx-a11y', '@typescript-eslint'],
   rules: {
     'react/react-in-jsx-scope': 'off',
+    'import/no-unresolved': 'off',
   },
 };
