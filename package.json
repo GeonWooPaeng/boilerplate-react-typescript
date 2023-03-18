@@ -1,0 +1,20 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "React + TypeScript + Babel + ESLint &amp; Prettier With Webpack Boilerplate(CRA X)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate#readme"
+}
