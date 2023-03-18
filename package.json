@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate/issues"
   },
-  "homepage": "https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate#readme"
+  "homepage": "https://github.com/GeonWooPaeng/React-TypeScript-Boilerplate#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
